@@ -1,0 +1,42 @@
+body {
+  font-family: fantasy;
+  margin: 40px;
+  background-color: rgb(241, 198, 212);
+  color: #333;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: aliceblue;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h2,
+h3 {
+  /*color: #2c3e50;*/
+  border-bottom: 2px solid #2c3e50;
+  padding-bottom: 5px;
+}
+.job-title {
+  font-weight: bold;
+  color: #1c6596;
+}
+.job-period {
+  font-style: italic;
+  /*color: #89a8aa;*/
+}
+.ul {
+  padding-left: 20px;
+  color: firebrick;
+}
+.skills span {
+  display: inline-block;
+  background: #89a8aa;
+  color: 1c6596;
+  padding: 5px 10px;
+  margin: 5px 3px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
